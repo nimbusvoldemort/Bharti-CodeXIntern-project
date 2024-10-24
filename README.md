@@ -14,9 +14,10 @@ This project uses the **Pandas** library to load a CSV file and perform basic da
 ## 2. Data Visualization with Matplotlib and Seaborn
 
 This project demonstrates how to load a dataset and create various visualizations to analyze the data using **Matplotlib** and **Seaborn**. The visualizations include:
-- Bar charts to compare categorical data.
-- Scatter plots to show relationships between two numerical columns.
-- Heatmaps to display correlations between numerical columns.
+- Bar plots to compare categorical data.
+- Line charts to show trends over time or sequences.
+- Box plots to display the distribution and variability of data.
+- Scatter plots to show relationships between two numerical variables.
 
 ---
 
@@ -27,11 +28,3 @@ This project utilizes an image generation API (e.g., DALL-E or Stable Diffusion)
 - **Output**: The generated image is saved in local storage as a `.jpg` or `.png` file.
 
 ---
-
-### Usage
-
-Each project can be run independently. Follow the instructions in the respective scripts to load datasets (for data analysis and visualization) or enter a text description (for the text-to-image generator). Ensure you have the necessary API keys and datasets available before running the scripts.
-
----
-
-This repository demonstrates foundational skills in data handling, visualization, and interaction with external APIs.
