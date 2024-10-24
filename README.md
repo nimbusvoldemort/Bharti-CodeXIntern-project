@@ -24,7 +24,7 @@ This project demonstrates how to load a dataset and create various visualization
 ## 3. Text-to-Image Generator Using an API
 
 This project utilizes an image generation API (e.g., DALL-E or Stable Diffusion) to generate images based on a given text description. The key features include:
-- **Input**: A text description provided through the console (e.g., "A black dog wearing a hat").
+- **Input**: A text description provided through the console (e.g., "A cat on a village house.").
 - **Output**: The generated image is saved in local storage as a `.jpg` or `.png` file.
 
 ---
